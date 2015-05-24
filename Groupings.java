@@ -42,7 +42,7 @@ public class Groupings
 	int size_of_smaller_groups;
 	int size_of_larger_groups;
 	int start_for_larger_groups = 0;
-
+	int testGit;
 
 	/**
 	 * Default Constructor For Groupings Class
